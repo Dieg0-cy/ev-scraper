@@ -11,6 +11,8 @@ pnpm-lock.yaml
 
 # BUT keep package.json in repo
 !package.json
+!tsconfig.json
+
 
 # Logs
 logs
