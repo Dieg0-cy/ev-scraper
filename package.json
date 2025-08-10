@@ -1,0 +1,22 @@
+{
+    "name": "abot",
+    "version": "1.0.0",
+    "main": "dist/main.js",
+    "scripts": {
+        "start": "tsc && node dist/main.js",
+        "build": "tsc",
+        "clean": "tsc --build --clean"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@types/node": "^24.0.1",
+        "eslint": "^9.28.0",
+        "typescript": "^5.8.3"
+    },
+    "dependencies": {
+        "playwright": "1.53.0"
+    }
+}

@@ -1,0 +1,2251 @@
+{
+  "timestamp": "2025-06-16T16:10:27.827Z",
+  "originalProps": [
+    {
+      "player": "Aaron Nesmith",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.571,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 2.31,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 1.793,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 1.952,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "type": "OVER",
+      "odds": 1.781,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "type": "UNDER",
+      "odds": 1.961,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 1.735,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 2.03,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.952,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.793,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 1.699,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 2.08,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 1.826,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 1.909,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.26,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.595,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Assists",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 2.28,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Assists",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 1.584,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 1.97,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 1.781,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 1.8,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 1.943,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Points",
+      "line": 9.5,
+      "type": "OVER",
+      "odds": 2.04,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Points",
+      "line": 9.5,
+      "type": "UNDER",
+      "odds": 1.724,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "OVER",
+      "odds": 2.04,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "UNDER",
+      "odds": 1.724,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.53,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.483,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "OVER",
+      "odds": 2.34,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "UNDER",
+      "odds": 1.558,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Points",
+      "line": 15.5,
+      "type": "OVER",
+      "odds": 1.869,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Points",
+      "line": 15.5,
+      "type": "UNDER",
+      "odds": 1.869,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "type": "OVER",
+      "odds": 1.952,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "type": "UNDER",
+      "odds": 1.793,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "type": "OVER",
+      "odds": 2.1,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "type": "UNDER",
+      "odds": 1.684,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "type": "OVER",
+      "odds": 1.925,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "type": "UNDER",
+      "odds": 1.819,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "OVER",
+      "odds": 2.14,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "UNDER",
+      "odds": 1.657,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.05,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.719,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Assists",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 2.17,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Assists",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 1.645,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Points",
+      "line": 22.5,
+      "type": "OVER",
+      "odds": 1.826,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Points",
+      "line": 22.5,
+      "type": "UNDER",
+      "odds": 1.917,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "type": "OVER",
+      "odds": 1.806,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "type": "UNDER",
+      "odds": 1.934,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 1.781,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 1.961,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.591,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 2.27,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Points",
+      "line": 8.5,
+      "type": "OVER",
+      "odds": 1.862,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Points",
+      "line": 8.5,
+      "type": "UNDER",
+      "odds": 1.877,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "OVER",
+      "odds": 1.961,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "UNDER",
+      "odds": 1.781,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.819,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.917,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Points",
+      "line": 14.5,
+      "type": "OVER",
+      "odds": 1.877,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Points",
+      "line": 14.5,
+      "type": "UNDER",
+      "odds": 1.862,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "type": "OVER",
+      "odds": 1.917,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "type": "UNDER",
+      "odds": 1.826,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 1.666,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 2.13,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.2,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.628,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 2.02,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 1.74,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 2.01,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 1.746,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 2.01,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 1.746,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.52,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.487,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "OVER",
+      "odds": 1.952,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "UNDER",
+      "odds": 1.793,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "OVER",
+      "odds": 4.13,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "UNDER",
+      "odds": 1.208,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Points",
+      "line": 19.5,
+      "type": "OVER",
+      "odds": 2.06,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Points",
+      "line": 19.5,
+      "type": "UNDER",
+      "odds": 1.709,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "OVER",
+      "odds": 2.02,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "UNDER",
+      "odds": 1.74,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "OVER",
+      "odds": 2.05,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "UNDER",
+      "odds": 1.714,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.775,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.98,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Assists",
+      "line": 6.5,
+      "type": "OVER",
+      "odds": 2.06,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Assists",
+      "line": 6.5,
+      "type": "UNDER",
+      "odds": 1.709,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Points",
+      "line": 34.5,
+      "type": "OVER",
+      "odds": 1.9,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Points",
+      "line": 34.5,
+      "type": "UNDER",
+      "odds": 1.833,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Pts+Rebs+Asts",
+      "line": 47.5,
+      "type": "OVER",
+      "odds": 1.934,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Pts+Rebs+Asts",
+      "line": 47.5,
+      "type": "UNDER",
+      "odds": 1.806,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 1.892,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 1.847,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "OVER",
+      "odds": 1.862,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "UNDER",
+      "odds": 1.877,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Points",
+      "line": 7.5,
+      "type": "OVER",
+      "odds": 1.769,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Points",
+      "line": 7.5,
+      "type": "UNDER",
+      "odds": 1.98,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "type": "OVER",
+      "odds": 2.01,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "type": "UNDER",
+      "odds": 1.746,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "3 Point FG",
+      "line": 2.5,
+      "type": "OVER",
+      "odds": 1.925,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "3 Point FG",
+      "line": 2.5,
+      "type": "UNDER",
+      "odds": 1.819,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Assists",
+      "line": 8.5,
+      "type": "OVER",
+      "odds": 2.1,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Assists",
+      "line": 8.5,
+      "type": "UNDER",
+      "odds": 1.68,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "OVER",
+      "odds": 3,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "UNDER",
+      "odds": 1.358,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Points",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 1.917,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Points",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 1.819,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "OVER",
+      "odds": 1.869,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "UNDER",
+      "odds": 1.869,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 1.662,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 2.13,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    }
+  ],
+  "noVigProps": [
+    {
+      "player": "Aaron Nesmith",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.6800865800865799,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 2.47040101845958,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 1.918545081967213,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 2.0886781929726714,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "type": "OVER",
+      "odds": 1.908210096889342,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "type": "UNDER",
+      "odds": 2.1010668163952833,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 1.854679802955665,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Aaron Nesmith",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 2.170028818443804,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.0886781929726714,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.918545081967213,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 1.8168269230769232,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 2.2242495585638613,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 1.9565217391304346,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 2.0454545454545454,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.41692789968652,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.7057522123893805,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Assists",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 2.439393939393939,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Assists",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 1.694736842105263,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 2.106120157215048,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 1.9040609137055837,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 1.9264024704065879,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Andrew Nembhard",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 2.0794444444444444,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Points",
+      "line": 9.5,
+      "type": "OVER",
+      "odds": 2.183294663573086,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Points",
+      "line": 9.5,
+      "type": "UNDER",
+      "odds": 1.8450980392156864,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "OVER",
+      "odds": 2.183294663573086,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "UNDER",
+      "odds": 1.8450980392156864,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.7060013486176664,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.5861660079051383,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "OVER",
+      "odds": 2.5019255455712455,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "UNDER",
+      "odds": 1.665811965811966,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Points",
+      "line": 15.5,
+      "type": "OVER",
+      "odds": 2,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Points",
+      "line": 15.5,
+      "type": "UNDER",
+      "odds": 2,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "type": "OVER",
+      "odds": 2.0886781929726714,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "type": "UNDER",
+      "odds": 1.918545081967213,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "type": "OVER",
+      "odds": 2.2470308788598574,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "type": "UNDER",
+      "odds": 1.8019047619047617,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "type": "OVER",
+      "odds": 2.05827377680044,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "type": "UNDER",
+      "odds": 1.9449350649350647,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.717Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "OVER",
+      "odds": 2.291490645745323,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "UNDER",
+      "odds": 1.7742990654205606,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.192553810354857,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.8385365853658537,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Assists",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 2.319148936170213,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Assists",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 1.7580645161290325,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Points",
+      "line": 22.5,
+      "type": "OVER",
+      "odds": 1.952529994783516,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Points",
+      "line": 22.5,
+      "type": "UNDER",
+      "odds": 2.0498357064622126,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "type": "OVER",
+      "odds": 1.9338159255429164,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "type": "UNDER",
+      "odds": 2.070874861572536,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 1.908210096889342,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 2.1010668163952833,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.7008810572687225,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 2.4267756128221247,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Points",
+      "line": 8.5,
+      "type": "OVER",
+      "odds": 1.9920085242408097,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Points",
+      "line": 8.5,
+      "type": "UNDER",
+      "odds": 2.0080558539205158,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "OVER",
+      "odds": 2.1010668163952833,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "type": "UNDER",
+      "odds": 1.908210096889342,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.9488784559207097,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 2.0538757559098406,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Points",
+      "line": 14.5,
+      "type": "OVER",
+      "odds": 2.0080558539205158,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Points",
+      "line": 14.5,
+      "type": "UNDER",
+      "odds": 1.9920085242408097,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "type": "OVER",
+      "odds": 2.0498357064622126,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "type": "UNDER",
+      "odds": 1.952529994783516,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 1.7821596244131455,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Myles Turner",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 2.278511404561825,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.3513513513513518,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.7400000000000002,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "OVER",
+      "odds": 2.160919540229885,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Points",
+      "line": 10.5,
+      "type": "UNDER",
+      "odds": 1.8613861386138613,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 2.1512027491408934,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 1.8686567164179109,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 2.1512027491408934,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Obi Toppin",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 1.8686567164179109,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 2.6946872898453265,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 1.5900793650793652,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "OVER",
+      "odds": 2.0886781929726714,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "UNDER",
+      "odds": 1.918545081967213,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "OVER",
+      "odds": 4.418874172185431,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "UNDER",
+      "odds": 1.2924939467312349,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Points",
+      "line": 19.5,
+      "type": "OVER",
+      "odds": 2.205383265067291,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Points",
+      "line": 19.5,
+      "type": "UNDER",
+      "odds": 1.8296116504854372,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "OVER",
+      "odds": 2.160919540229885,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "UNDER",
+      "odds": 1.8613861386138613,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "OVER",
+      "odds": 2.1960326721120182,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Pascal Siakam",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "type": "UNDER",
+      "odds": 1.8360975609756096,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "OVER",
+      "odds": 1.8964646464646464,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "3 Point FG",
+      "line": 1.5,
+      "type": "UNDER",
+      "odds": 2.1154929577464787,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Assists",
+      "line": 6.5,
+      "type": "OVER",
+      "odds": 2.205383265067291,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Assists",
+      "line": 6.5,
+      "type": "UNDER",
+      "odds": 1.8296116504854372,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Points",
+      "line": 34.5,
+      "type": "OVER",
+      "odds": 2.036552100381888,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Points",
+      "line": 34.5,
+      "type": "UNDER",
+      "odds": 1.9647368421052631,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Pts+Rebs+Asts",
+      "line": 47.5,
+      "type": "OVER",
+      "odds": 2.070874861572536,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Pts+Rebs+Asts",
+      "line": 47.5,
+      "type": "UNDER",
+      "odds": 1.9338159255429164,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "OVER",
+      "odds": 2.024363833243097,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "type": "UNDER",
+      "odds": 1.976215644820296,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "OVER",
+      "odds": 1.9920085242408097,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Assists",
+      "line": 3.5,
+      "type": "UNDER",
+      "odds": 2.0080558539205158,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Points",
+      "line": 7.5,
+      "type": "OVER",
+      "odds": 1.8934343434343437,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Points",
+      "line": 7.5,
+      "type": "UNDER",
+      "odds": 2.1192764273600906,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "type": "OVER",
+      "odds": 2.1512027491408934,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "T.J. McConnell",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "type": "UNDER",
+      "odds": 1.8686567164179109,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "3 Point FG",
+      "line": 2.5,
+      "type": "OVER",
+      "odds": 2.05827377680044,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "3 Point FG",
+      "line": 2.5,
+      "type": "UNDER",
+      "odds": 1.9449350649350647,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Assists",
+      "line": 8.5,
+      "type": "OVER",
+      "odds": 2.25,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Assists",
+      "line": 8.5,
+      "type": "UNDER",
+      "odds": 1.7999999999999998,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "OVER",
+      "odds": 3.2091310751104567,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Double+Double",
+      "line": 0.5,
+      "type": "UNDER",
+      "odds": 1.4526666666666668,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Points",
+      "line": 17.5,
+      "type": "OVER",
+      "odds": 2.0538757559098406,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Points",
+      "line": 17.5,
+      "type": "UNDER",
+      "odds": 1.9488784559207097,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "OVER",
+      "odds": 2,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "type": "UNDER",
+      "odds": 2,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "OVER",
+      "odds": 1.7802816901408447,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "type": "UNDER",
+      "odds": 2.2815884476534296,
+      "market": "NBA",
+      "site": "Pinnacle",
+      "timestamp": "2025-06-16T16:10:26.718Z"
+    }
+  ],
+  "parlayAnalysis": {
+    "count": 0,
+    "topParlays": []
+  }
+}
