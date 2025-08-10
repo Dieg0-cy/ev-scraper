@@ -26,8 +26,8 @@ async function scrapePinnacleLeagueProps(browser: Browser, league: 'MLB'): Promi
 
     try {
         await page.goto(leagueUrl, {
-            waitUntil: 'networkidle',
-            timeout: 60000
+            waitUntil: 'domcontentloaded',
+            timeout: 30000
         });
 
         await waitForPageLoad(page);
@@ -124,9 +124,7 @@ async function scrapePinnacleLeagueProps(browser: Browser, league: 'MLB'): Promi
                                 const underOddsText = underOddsElem?.textContent?.trim() || '0';
                                 const overOdds = parseFloat(parseFloat(overOddsText).toFixed(3));
                                 const underOdds = parseFloat(parseFloat(underOddsText).toFixed(3));
-                                if (!player || !statType || overOdds <= 1 || underOdds <= 1) {
-                                    return;
-                                }
+                                if (!player || player === "Team" || statType.match(/Inning|Half|Game/i)) return;
                                 let normalizedStat = statType.replace(/^Total\s+/i, '').trim();
                                 if (normalizedStat.toLowerCase().includes('strikeout')) normalizedStat = 'Strikeouts';
                                 if (normalizedStat.toLowerCase().includes('hit')) normalizedStat = 'Hits';

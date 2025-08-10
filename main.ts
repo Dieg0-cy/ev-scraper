@@ -1,6 +1,6 @@
 import { createBrowser } from './browser';
 import { scrapePinnacleProps } from './scraper';
-import { analyzeParlays, displayTopParlays } from './parlay';
+import { analyzeParlays } from './parlay';
 import * as fs from 'fs';
 
 async function main() {
@@ -11,12 +11,11 @@ async function main() {
         console.log('Browser created, starting prop scraping...');
         const props = await scrapePinnacleProps(browser);
 
-        console.log('\nAnalyzing MLB Parlays...');
-        const parlayAnalysis = analyzeParlays(props);
+        console.log('Scraped props:', props); // Log the scraped props
 
-        // Display results
-        console.log('\n=== MLB RESULTS ===');
-        displayTopParlays(parlayAnalysis, 5);
+        // Analyze parlays and filter for +EV parlays
+        const parlays = analyzeParlays(props);
+        const plusEVParlays = parlays.filter(p => p.analysis.ev > 0);
 
         // Prepare output structure
         const finalOutput = {
@@ -24,8 +23,8 @@ async function main() {
             mlb: {
                 props: props,
                 parlayAnalysis: {
-                    count: parlayAnalysis.length,
-                    topParlays: parlayAnalysis.slice(0, 10)
+                    count: plusEVParlays.length,
+                    topParlays: plusEVParlays.slice(0, 10)
                 }
             }
         };
@@ -40,7 +39,7 @@ async function main() {
         // Display summary
         console.log('\nSummary:');
         console.log(`MLB Props: ${props.length}`);
-        console.log(`MLB +EV Parlays: ${parlayAnalysis.length}`);
+        console.log(`MLB +EV Parlays: ${plusEVParlays.length}`);
 
     } catch (err) {
         console.error('Fatal error in main:', err);

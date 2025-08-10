@@ -5,6 +5,6 @@ export async function createBrowser(): Promise<Browser> {
 }
 
 export async function waitForPageLoad(page: Page) {
-    await page.waitForLoadState('networkidle');
-    await page.waitForTimeout(6000);
+    await page.waitForLoadState('domcontentloaded');
+    await page.waitForTimeout(30000);
    }
