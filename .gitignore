@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+pnpm-lock.yaml
+
+# Output JSON files (generated data)
+*.json
+
+# BUT keep package.json in repo
+!package.json
+
+# Logs
+logs
+*.log
+logs/*
+
+# Environment variables
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
